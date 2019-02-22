@@ -8,10 +8,10 @@ Laramate Package Blueprint
 
 This is the Laramate package blueprint for laravel packages 
 
-<p style="border: 1px solid #666;" border=1>    
-Attention please: This is a warning!
-</p>
-
+<table border="1" bordercolor="#ffeeba" style="background-color:red"><tr><td bgcolor="black" color="white">
+Attention please: This is a warning! 
+</td></tr></table>
+   
 
 Documentation
 -------------------------------------------------------------------------------
