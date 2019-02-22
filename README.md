@@ -14,7 +14,8 @@
 Description
 -------------------------------------------------------------------------------
 
-This is the Laramate package blueprint for laravel packages 
+This is the Laramate package blueprint for laravel package development. It contains 
+the folder structure and some basic configuration.
 
 
 Documentation
