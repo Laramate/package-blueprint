@@ -12,6 +12,7 @@ This is the Laramate package blueprint for laravel packages
   * [Changelog](#changelog)
   * [License](#license)
 
+
 Documentation
 -------------------------------------------------------------------------------
 
@@ -31,6 +32,8 @@ Work in progress...
 > __!!! This is a danger alert:__
 > Be sure not to get this wrong or double check it
 
+[[back to top](#laramate-package-blueprint)]
+
 
 Further Information
 -------------------------------------------------------------------------------
@@ -40,7 +43,9 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ### License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
- 
+
+[[back to top](#laramate-package-blueprint)]
+
 
 <!-- Laramate Links -->
 [logo]: https://avatars2.githubusercontent.com/u/45978330?s=75&v=4"
