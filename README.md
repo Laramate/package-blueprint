@@ -1,7 +1,7 @@
+| ![Laramate][logo] | <h3>Laramate</h3> |
+|-------------------|--------------------------------|
 
-<img src="https://avatars2.githubusercontent.com/u/45978330?s=100&v=4"> 
-
-Laramate Package Blueprint
+Package Blueprint
 ===================================================================================================
 
 This is the Laramate package blueprint for laravel packages 
@@ -44,5 +44,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
  
 
 <!-- Laramate Links -->
+[logo]: https://avatars2.githubusercontent.com/u/45978330?s=100&v=4"
 [Laramate Website]: http://www.laramate.de 
 [Laramate Github]: https://github.com/Laramate
