@@ -8,9 +8,9 @@ Laramate Package Blueprint
 
 This is the Laramate package blueprint for laravel packages 
 
-<div class="alert alert-warning" role="alert" style="border: 1px solid #666;">    
+<p style="border: 1px solid #666;" border=1>    
 Attention please: This is a warning!
-</div>
+</p>
 
 
 Documentation
