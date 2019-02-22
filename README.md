@@ -1,4 +1,4 @@
-![Laramate][logo] Package Blueprint
+Package Blueprint
 ===================================================================================================
 
 * [Description](#description)
