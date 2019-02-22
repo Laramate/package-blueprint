@@ -49,7 +49,8 @@ information.
 
 
 ---
-&copy; Laramate 2019 
+&copy; 2019 Laramate
+&nbsp;&bull;&nbsp; [MIT License](LICENSE.md)
 &nbsp;&bull;&nbsp; [www.laramate.de][Laramate Website]
 &nbsp;&bull;&nbsp; [github.com/Laramate][Laramate Github]
 
