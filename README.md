@@ -1,13 +1,10 @@
-<style 
-    type="text/css">
-    .alert {
-        border: 1px solid #666;
-    }
+<style type="text/css"> 
+.alert { border: 1px solid #666; }
 </style>
 
 <div style="display: flex">
-    <img src="https://avatars2.githubusercontent.com/u/45978330?s=100&v=4">
-    <strong style="font-size: 1.2rem; margin-left: 20px;">Laramate</strong>
+<img src="https://avatars2.githubusercontent.com/u/45978330?s=100&v=4">
+<strong style="font-size: 1.2rem; margin-left: 20px;">Laramate</strong>
 </div>
 
 Laramate Package Blueprint
@@ -15,8 +12,8 @@ Laramate Package Blueprint
 
 This is the Laramate package blueprint for laravel packages 
 
-<div class="alert alert-warning" role="alert">    
-    Attention please: This is a warning!
+<div class="alert alert-warning" role="alert" style="border: 1px solid #666;">    
+Attention please: This is a warning!
 </div>
 
 
