@@ -1,7 +1,3 @@
-<style type="text/css"> 
-.alert { border: 1px solid #666; }
-</style>
-
 <div style="display: flex">
 <img src="https://avatars2.githubusercontent.com/u/45978330?s=100&v=4">
 <strong style="font-size: 1.2rem; margin-left: 20px;">Laramate</strong>
