@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+---
+&copy; Laramate 2019 
+&nbsp;&bull;&nbsp; [www.laramate.de][Laramate Website]
+&nbsp;&bull;&nbsp; [github.com/Laramate][Laramate Github]
+
+<!-- Common References -->
+[logo]: https://avatars2.githubusercontent.com/u/45978330?s=75&v=4"
+[Laramate Website]: http://www.laramate.de 
+[Laramate Github]: https://github.com/Laramate
+

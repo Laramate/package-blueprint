@@ -1,4 +1,3 @@
-
 ![Laramate][logo] Laramate Package Blueprint
 ===================================================================================================
 
@@ -14,8 +13,8 @@
 Description
 -------------------------------------------------------------------------------
 
-This is the Laramate package blueprint for laravel package development. It contains 
-the folder structure and some basic configuration.
+This is the Laramate package blueprint for laravel package development. It 
+contains the folder structure and some basic configuration.
 
 
 Documentation
@@ -40,13 +39,21 @@ Further Information
 -------------------------------------------------------------------------------
 
 ### Changelog
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed 
+recently.
 
 ### License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more 
+information.
 
 
-<!-- Laramate Links -->
+
+---
+&copy; Laramate 2019 
+&nbsp;&bull;&nbsp; [www.laramate.de][Laramate Website]
+&nbsp;&bull;&nbsp; [github.com/Laramate][Laramate Github]
+
+<!-- Common References -->
 [logo]: https://avatars2.githubusercontent.com/u/45978330?s=75&v=4"
 [Laramate Website]: http://www.laramate.de 
 [Laramate Github]: https://github.com/Laramate
