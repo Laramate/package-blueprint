@@ -22,11 +22,11 @@ Documentation
 You can install the package via composer:
 
 ```bash
-composer require laramate/blueprint
+composer require laramate/package-blueprint
 ```
 
 ### How to use?
-Work in progress...`
+Work in progress...
 
 > __! This is a warning:__ 
 > Please take care of every warning printed in this documentation
