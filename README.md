@@ -22,20 +22,18 @@ Documentation
 -------------------------------------------------------------------------------
 
 ### Installation
-You can install the package via composer:
+You can install the package via composer.
 
 ```bash
 composer require laramate/package-blueprint
 ```
 
+> __Note:__
+> This package is just a template to build new laravel packages. 
+
+
 ### How to use?
 Work in progress...
-
-> __! This is a warning:__ 
-> Please take care of every warning printed in this documentation
-
-> __!!! This is a danger alert:__
-> Be sure not to get this wrong or double check it
 
 
 Further Information
