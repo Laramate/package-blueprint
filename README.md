@@ -15,13 +15,6 @@ This is the Laramate package blueprint for laravel packages
   * [Changelog](#changelog)
   * [License](#license)
 
-> __! This is a warning:__ 
-> Please take care of every warning printed in this documentation
-
-> __!!! This is a danger alert:__
-> Be sure not to get this wrong or double check it
-
-
 Documentation
 -------------------------------------------------------------------------------
 
@@ -34,6 +27,12 @@ composer require laramate/blueprint
 
 ### How to use?
 Work in progress...`
+
+> __! This is a warning:__ 
+> Please take care of every warning printed in this documentation
+
+> __!!! This is a danger alert:__
+> Be sure not to get this wrong or double check it
 
 
 Further Information
