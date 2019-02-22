@@ -1,15 +1,20 @@
-![Laramate][logo]
-Laramate Package Blueprint
+
+![Laramate][logo] Laramate Package Blueprint
 ===================================================================================================
 
-This is the Laramate package blueprint for laravel packages 
-
+* [Description](#description)
 * [Documentation](#documentation)
   * [Installation](#installation)
   * [How to use?](#how-to-use)
 * [Further Information](#further-information)
   * [Changelog](#changelog)
   * [License](#license)
+
+
+Description
+-------------------------------------------------------------------------------
+
+This is the Laramate package blueprint for laravel packages 
 
 
 Documentation
