@@ -1,7 +1,6 @@
-| ![Laramate][logo] | <h1>Laramate</h1>                   |
-|-------------------|:------------------------------------|
+ ![Laramate][logo]
 
-Package Blueprint
+Laramate Package Blueprint
 ===================================================================================================
 
 This is the Laramate package blueprint for laravel packages 
