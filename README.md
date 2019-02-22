@@ -1,4 +1,5 @@
-<style type="text/css">
+<style 
+    type="text/css">
     .alert {
         border: 1px solid #666;
     }
