@@ -2,6 +2,8 @@
 ![Laramate][logo] Laramate Package Blueprint
 ===================================================================================================
 
+Table of content
+-------------------------------------------------------------------------------
 * [Description](#description)
 * [Documentation](#documentation)
   * [Installation](#installation)
@@ -36,7 +38,7 @@ Work in progress...
 > __!!! This is a danger alert:__
 > Be sure not to get this wrong or double check it
 
-[[back to top](#laramate-package-blueprint)]
+[[back to top](#table-of-content)]
 
 
 Further Information
@@ -48,7 +50,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ### License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[[back to top](#laramate-package-blueprint)]
+[[back to top](#table-of-content)]
 
 
 <!-- Laramate Links -->
