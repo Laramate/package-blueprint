@@ -8,8 +8,13 @@ Laramate Package Blueprint
 
 This is the Laramate package blueprint for laravel packages 
 
-* [Documentation][#documentation]
-   * [Installation][#nstallation]
+* [Documentation](#documentation)
+  * [Installation](#installation)
+  * [How to use?](#how-to-use)
+* [Further Information](#further-information)
+  * [Changelog](#changelog)
+  * [License](#license)
+
 
 
 <table border="1" bordercolor="#ffeeba"><tr><td border="1" bgcolor="black" color="white">
