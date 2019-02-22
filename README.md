@@ -17,9 +17,9 @@ This is the Laramate package blueprint for laravel packages
 
 
 
-<table border="1" bordercolor="#ffeeba"><tr><td border="1" bgcolor="black" color="white">
-Attention please: This is a warning! 
-</td></tr></table>
+<blockquoten class="alert alert-warning">
+ Attention please: This is a warning!
+ </blockquote>
    
 
 Documentation
