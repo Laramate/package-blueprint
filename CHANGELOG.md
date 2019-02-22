@@ -14,6 +14,6 @@
 &nbsp;&bull;&nbsp; [github.com/Laramate][Laramate Github]
 
 <!-- Common References -->
-[logo]: https://avatars2.githubusercontent.com/u/45978330?s=75&v=4"
+[logo]: https://avatars1.githubusercontent.com/u/45978330?s=100
 [Laramate Website]: http://www.laramate.de 
 [Laramate Github]: https://github.com/Laramate
