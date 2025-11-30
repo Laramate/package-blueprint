@@ -1,55 +1,30 @@
-Package Blueprint
-===================================================================================================
-
-* [Description](#description)
-* [Documentation](#documentation)
-  * [Installation](#installation)
-  * [How to use?](#how-to-use)
-* [Further Information](#further-information)
-  * [Changelog](#changelog)
-  * [License](#license)
+<p align="center" style="background: white; padding: 40px 20px 20px 20px"><a href="https://laramate.de" target="_blank"><img src="https://laramate.de/laramate.webp" width="200" alt="Laravel Logo"></a></p>
 
 
-Description
--------------------------------------------------------------------------------
+# Laravel Package Blueprint
 
 This is the Laramate package blueprint for laravel package development. It 
-contains the folder structure and some basic configuration.
+contains the folder structure and some basic configuration. It can be used as
+a template to build new laravel packages.
+
+> Warning: This package is under constant development. Use at your own risk.
 
 
-Documentation
--------------------------------------------------------------------------------
-
-### Installation
+## Installation
 You can install the package via composer.
 
 ```bash
 composer require laramate/package-blueprint
 ```
 
-> __Note:__
-> This package is just a template to build new laravel packages. 
-
-
-### How to use?
-Work in progress...
-
-
-Further Information
--------------------------------------------------------------------------------
-
-### Changelog
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed 
-recently.
-
-### License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more 
-information.
-
-
+---
+### About Laramate
+We build high-performance custom software and CRM systems that adapt to you. Leveraging
+the power of Laravel, React, and Statamic, we create digital experiences tailored
+specifically to your operational needs. 
 
 ---
-&copy; 2019 Laramate
+&copy; 2025 Laramate
 &nbsp;&bull;&nbsp; [MIT License](LICENSE.md)
 &nbsp;&bull;&nbsp; [www.laramate.de][Laramate Website]
 &nbsp;&bull;&nbsp; [github.com/Laramate][Laramate Github]
